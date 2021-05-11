@@ -1,0 +1,11 @@
+// 초기세팅방법
+https://github.com/alvarotrigo/fullPage.js/blob/master/lang/korean/README.md
+
+// 추가 확장프로그램 활성화 방법 (추가 확장 구매하였을시)
+https://github.com/alvarotrigo/fullPage.js/blob/master/lang/korean/how-to-activate-fullpage-extension.md
+
+// 패럴렉스 효과 확장프로그램
+https://github.com/alvarotrigo/fullPage.js/blob/master/lang/korean/parallax-extension.md
+
+//참고 유튜브 자료
+https://www.youtube.com/watch?v=pClOy5lA7rU
