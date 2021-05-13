@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <link rel="stylesheet" type="text/css" href="\src\fullpage.css" />
+    <script type="text/javascript" src="\src\fullpage.js"></script>
+    <link href='//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css' rel='stylesheet' type='text/css'>    
+      
+    <style>
+    * {
+        /*애플  폰트 */
+        font-family: 'Spoqa Han Sans Neo', 'sans-serif'; 
+    }</style>    
+
+    <style>
+    .centered { display: table; margin-left: auto; margin-right: auto; }
+
+    </style>
+
+    <div id="fullpage">
+        <div class="section">One</div>
+        <div class="section">
+            <div class="slide" data-anchor="slide1">Two 1</div>
+            <div class="slide" data-anchor="slide2">Two 2</div>
+        </div>
+        <div class="section">Three</div>
+        <div class="section">Four</div>
+    </div>
+    
+
+    <script>
+        new fullpage('#fullpage', {
+          //화면 이동
+            autoScrolling:true,
+            scrollHorizontally: true,
+            sectionsColor: ['black', 'gray', 'blue', 'pink'],
+            navigation: true,
+		    navigationPosition: 'right',
+            
+            //스크롤
+            css3: true,
+            scrollingSpeed: 1000,
+            autoScrolling: true,
+            fitToSection: true,
+		    fitToSectionDelay: 1000,
+            dragAndMove: true
+        });
+      </script>
+      
+
+
+      
+</head>
+</html>
