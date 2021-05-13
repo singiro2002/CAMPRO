@@ -13,18 +13,22 @@
     }</style>    
 
     <style>
-    .centered { display: table; margin-left: auto; margin-right: auto; }
 
+    section{text-align: center;}
+    slide{text-align: center;}
+    .section{text-align: center;}
+    .slide{text-align: center;}
     </style>
 
     <div id="fullpage">
-        <div class="section">One</div>
-        <div class="section">
-            <div class="slide" data-anchor="slide1">Two 1</div>
+        <div class="section" data-anchor="section1" style="font-size: xx-large;">CAMPRO</div>
+        <div class="section" data-anchor="section2">
+            <div class="slide" data-anchor="slide1">Two</div>
             <div class="slide" data-anchor="slide2">Two 2</div>
+            <div class="slide" data-anchor="slide3">Two 3</div>
         </div>
-        <div class="section">Three</div>
-        <div class="section">Four</div>
+        <div class="section" data-anchor="section3">Three</div>
+        <div class="section" data-anchor="section4">Four</div>
     </div>
     
 
@@ -33,7 +37,7 @@
           //화면 이동
             autoScrolling:true,
             scrollHorizontally: true,
-            sectionsColor: ['black', 'gray', 'blue', 'pink'],
+            sectionsColor: ['white', 'gray', 'blue', 'pink'],
             navigation: true,
 		    navigationPosition: 'right',
             
