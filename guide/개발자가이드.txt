@@ -11,8 +11,7 @@ https://github.com/alvarotrigo/fullPage.js/blob/master/lang/korean/parallax-exte
 https://www.youtube.com/watch?v=pClOy5lA7rU
 
 <<<<<<< HEAD
-민지민지 
-alswl      
+   
 =======
 //ghfhfhfhfhfhfhdrjey
 >>>>>>> 687b7f5941caa72f0f51dbfbeaa938ff0da6e2fd
