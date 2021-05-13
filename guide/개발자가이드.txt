@@ -9,3 +9,5 @@ https://github.com/alvarotrigo/fullPage.js/blob/master/lang/korean/parallax-exte
 
 //참고 유튜브 자료
 https://www.youtube.com/watch?v=pClOy5lA7rU
+
+민지민지  
